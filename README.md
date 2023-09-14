@@ -31,7 +31,6 @@ There is an Admin who determines monthly scedule of the clinic. Admin can add ne
 
 Admin can see all the reserved visits of all the doctors.
 
-![Screenshot 2023-09-14 035706](https://github.com/zahrabtlb/BP-project/assets/124011267/34b42cae-9ee3-4c20-b565-9df869da0765)
 
 
 
@@ -45,7 +44,6 @@ Doctors and patients username is their codemeli. Their password is initially the
 
 If someone forgets their password they can have a new password by entering username and e-mail.
 
-![Screenshot 2023-09-14 041541](https://github.com/zahrabtlb/BP-project/assets/124011267/14be073e-ea55-4554-94bc-387de35e5c0a)
 
 
 
